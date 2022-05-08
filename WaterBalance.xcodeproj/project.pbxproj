@@ -7,18 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		273D33E12827B8C600350648 /* List4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273D33E02827B8C500350648 /* List4.swift */; };
+		278D634F28269F200092F944 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278D634E28269F200092F944 /* ContentView2.swift */; };
+		278D63512826A58B0092F944 /* ContentView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278D63502826A58B0092F944 /* ContentView3.swift */; };
+		278D63552826AEB40092F944 /* List1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278D63542826AEB40092F944 /* List1.swift */; };
 		27F4E99028267D3600689710 /* WaterBalanceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F4E98F28267D3600689710 /* WaterBalanceApp.swift */; };
 		27F4E99228267D3600689710 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F4E99128267D3600689710 /* ContentView.swift */; };
 		27F4E99428267D3800689710 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27F4E99328267D3800689710 /* Assets.xcassets */; };
 		27F4E99728267D3800689710 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27F4E99628267D3800689710 /* Preview Assets.xcassets */; };
+		27F4E99E282690EB00689710 /* ContentView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F4E99D282690EA00689710 /* ContentView1.swift */; };
+		27F79CF52827152E00299F3C /* List2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F79CF42827152E00299F3C /* List2.swift */; };
+		27F79CF7282727AA00299F3C /* List3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F79CF6282727A900299F3C /* List3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		273D33E02827B8C500350648 /* List4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List4.swift; sourceTree = "<group>"; };
+		278D634E28269F200092F944 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
+		278D63502826A58B0092F944 /* ContentView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView3.swift; sourceTree = "<group>"; };
+		278D63542826AEB40092F944 /* List1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List1.swift; sourceTree = "<group>"; };
 		27F4E98C28267D3600689710 /* WaterBalance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterBalance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27F4E98F28267D3600689710 /* WaterBalanceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBalanceApp.swift; sourceTree = "<group>"; };
 		27F4E99128267D3600689710 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		27F4E99328267D3800689710 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27F4E99628267D3800689710 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		27F4E99D282690EA00689710 /* ContentView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView1.swift; sourceTree = "<group>"; };
+		27F79CF42827152E00299F3C /* List2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List2.swift; sourceTree = "<group>"; };
+		27F79CF6282727A900299F3C /* List3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +66,13 @@
 			isa = PBXGroup;
 			children = (
 				27F4E98F28267D3600689710 /* WaterBalanceApp.swift */,
+				273D33E02827B8C500350648 /* List4.swift */,
+				27F79CF6282727A900299F3C /* List3.swift */,
+				27F79CF42827152E00299F3C /* List2.swift */,
+				278D63542826AEB40092F944 /* List1.swift */,
+				278D63502826A58B0092F944 /* ContentView3.swift */,
+				278D634E28269F200092F944 /* ContentView2.swift */,
+				27F4E99D282690EA00689710 /* ContentView1.swift */,
 				27F4E99128267D3600689710 /* ContentView.swift */,
 				27F4E99328267D3800689710 /* Assets.xcassets */,
 				27F4E99528267D3800689710 /* Preview Content */,
@@ -137,7 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27F4E99E282690EB00689710 /* ContentView1.swift in Sources */,
+				278D63552826AEB40092F944 /* List1.swift in Sources */,
+				278D634F28269F200092F944 /* ContentView2.swift in Sources */,
+				27F79CF52827152E00299F3C /* List2.swift in Sources */,
+				273D33E12827B8C600350648 /* List4.swift in Sources */,
 				27F4E99228267D3600689710 /* ContentView.swift in Sources */,
+				27F79CF7282727AA00299F3C /* List3.swift in Sources */,
+				278D63512826A58B0092F944 /* ContentView3.swift in Sources */,
 				27F4E99028267D3600689710 /* WaterBalanceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
